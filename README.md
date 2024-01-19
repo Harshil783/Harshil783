@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **harshilpandey57@gmail.com**
 
-- ⚡ Fun fact **I am just a teen!**
-
 [![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil783)](https://github.com/harshil/github-readme-stats)
 
 
