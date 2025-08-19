@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshil Pandey</h1>
-<h3 align="center">A student just learning programming for fun</h3>
+<h3 align="center">A student just learning programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshil783&label=Profile%20views&color=0e75b6&style=flat" alt="harshil783" /> </p>
 
