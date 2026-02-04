@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshilpandey57@gmail.com**
 
-[![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshil783)](https://github.com/anuraghazra/github-readme-stats)]
+[![Harshil's GitHub stats](https://gh-stats.work/api?username=Harshil783)](https://github.com/dchu096)
 
 
 
